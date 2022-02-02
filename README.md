@@ -16,6 +16,7 @@ Repositório da disciplina "Linguagem de Programação 2"
 * Banda: <a href= https://pt.wikipedia.org/wiki/Rammstein>Rammstein</a>
 * Filme: <a href=https://www.imdb.com/title/tt0166924/>Mulholland Drive</a>, de *David Lynch*
 * Livro: <a href=https://www.goodreads.com/book/show/11297.Norwegian_Wood>Norwegian Wood</a>, de *Haruki Murakami*
+* Música: <a href=https://open.spotify.com/track/29FQEJUtBAnxWEkux39d7I>O'Children</a>, de *Nick Cave & The Bad Seeds*
 
 ## Objetivos para 2022 :dart:
 * Aumentar o CR
